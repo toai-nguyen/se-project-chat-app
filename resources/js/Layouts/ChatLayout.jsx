@@ -6,7 +6,7 @@ const ChatLayout = ({ children }) => {
     console.log("Conversation", conversations);
     console.log("selected conversation", selectedConversation);
     return(
-        <div></div>
+
     )
     
 }
